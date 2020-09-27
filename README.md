@@ -1,4 +1,4 @@
-### Holi uwu 👋
+### Holi soy Abdiel uwu 👋 ![Imagen gg](https://64.media.tumblr.com/078e9f85df484e8cd126750de41bfdeb/tumblr_mu3ysqJuyr1rmj009o1_400.gifv)
 
 <i>Aqui subo algunos materiales de apoyo para aprender programación y algunos proyectos futuros.</i>
 
