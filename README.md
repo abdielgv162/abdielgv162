@@ -1,5 +1,6 @@
 ### Holi uwu 👋
-### Aqui subo algunos materiales de apoyo para aprender programación y algunos proyector futuros.
+
+<i>Aqui subo algunos materiales de apoyo para aprender programación y algunos proyector futuros.</i>
 
 <div align="center">
     <img src="https://media1.tenor.com/images/d6a87bc63b7c4e449d8b3836f4aea8b4/tenor.gif?itemid=10889198" width="300" height="300" >
