@@ -1,6 +1,7 @@
-### Holi 👋
+### Holi uwu 👋
 
-## Encuentrame en la web uwu: 
+## Encuentrame en: 
+
 <div align="center">
     <img src="https://media1.tenor.com/images/d6a87bc63b7c4e449d8b3836f4aea8b4/tenor.gif?itemid=10889198" width="300" height="300" >
 </div>
