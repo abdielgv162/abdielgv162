@@ -1,5 +1,5 @@
 <h2> Hola! uwu <img src="https://64.media.tumblr.com/078e9f85df484e8cd126750de41bfdeb/tumblr_mu3ysqJuyr1rmj009o1_400.gifv" width="50"></h2>
-<i>Aqui subo algunos materiales de apoyo para aprender programación y algunos proyectos futuros.</i>
+<i>Aqui subo algunos apuntes de programacion y algunos proyectos futuros.</i>
 
 <div align="center">
     <img src="https://media1.tenor.com/images/d6a87bc63b7c4e449d8b3836f4aea8b4/tenor.gif?itemid=10889198" width="300" height="300" >
