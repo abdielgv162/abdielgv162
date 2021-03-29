@@ -7,9 +7,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdielgv162&layout=compact)
 
-![](https://img.shields.io/badge/IBM_Quantum_Challenge_2020-Foundational_Badge-informational?style=flat&logoColor=white&color=black)
+[![](https://img.shields.io/badge/IBM_Quantum_Challenge_2020-Foundational_Badge-informational?style=flat&logoColor=white&color=black)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
 
-![](https://img.shields.io/badge/IBM_Quantum_Challenge_2020-Foundational_Badge-informational?style=flat&logoColor=white&color=black&url=https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
+[![](https://i.imgur.com/SJxsWWA.png)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
 
 ---
 ## Encuentrame en: 
