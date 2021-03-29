@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdielgv162&layout=compact)
 
-[![](https://img.shields.io/badge/IBM_Quantum_Challenge_2020-Foundational_Badge-informational?style=flat&logoColor=white&color=black)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
+[![](https://img.shields.io/badge/Quantum_Challenge_2020-Foundational_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
 
 ---
 
