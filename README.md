@@ -7,9 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdielgv162&layout=compact)
 
-
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="328" height="20" role="img" aria-label="IBM Quantum Challenge - Fall 2020: Foundational Badge"><title>IBM Quantum Challenge - Fall 2020: Foundational Badge</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="328" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="209" height="20" fill="#555"/><rect x="209" width="119" height="20" fill="#9f9f9f"/><rect width="328" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="1055" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1990">IBM Quantum Challenge - Fall 2020</text><text x="1055" y="140" transform="scale(.1)" fill="#fff" textLength="1990">IBM Quantum Challenge - Fall 2020</text><text aria-hidden="true" x="2675" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1090">Foundational Badge</text><text x="2675" y="140" transform="scale(.1)" fill="#fff" textLength="1090">Foundational Badge</text></g></svg>
-
 ---
 ## Encuentrame en: 
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/AbdielGuerrer20) 
