@@ -1,4 +1,4 @@
-<h2> Hola!  <img src="https://cdn.betterttv.net/emote/5f7c09abccde1f4a870c416c/3x" width="50"></h2>
+<h1> Hola!  <img src="https://cdn.betterttv.net/emote/5f7c09abccde1f4a870c416c/3x" width="50"></h1>
 <i>Aqui subo algunos apuntes de programacion y algunos proyectos de utilidad.</i>
 
 ---
