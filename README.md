@@ -9,6 +9,8 @@
 
 ![](https://img.shields.io/badge/IBM_Quantum_Challenge_2020-Foundational_Badge-informational?style=flat&logoColor=white&color=black)
 
+![](https://img.shields.io/badge/IBM_Quantum_Challenge_2020-Foundational_Badge-informational?style=flat&logoColor=white&color=black&url=https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
+
 ---
 ## Encuentrame en: 
 [![Twitter](https://user-images.githubusercontent.com/282759/84680160-40c90c80-af00-11ea-8390-bb86858c5fa5.png)](https://twitter.com/AbdielGuerrer20) 
