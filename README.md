@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdielgv162&layout=compact)
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/IBM_Quantum_Challenge_2020-Foundational_Badge-informational?style=flat&logoColor=white&color=black)
 
 ---
 ## Encuentrame en: 
