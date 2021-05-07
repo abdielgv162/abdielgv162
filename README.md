@@ -9,6 +9,8 @@
 
 [![](https://img.shields.io/badge/Quantum_Challenge_2020-Foundational_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
 
+[![](https://img.shields.io/badge/Qubit_x_Qubit-Intro_to_Quantum_Computing-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://qubitbyqubit.simplecert.net/api/recipients/2348669/pdf?type=stream)
+
 ---
 
 <h2> Encuentrame en: </h2> 
