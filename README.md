@@ -23,4 +23,4 @@
 </a>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abdielgv162&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=abdielgv162&redirect=true)
+
