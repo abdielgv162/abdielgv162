@@ -21,4 +21,3 @@
 </a>
 
 
-[![Spotify](https://novatorem-2.vercel.app/api/spotify)](https://open.spotify.com/user/abdielgv162)
