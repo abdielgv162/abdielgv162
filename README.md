@@ -1,4 +1,5 @@
-<h1> Bienvenidx!  <img src="https://cdn.betterttv.net/emote/5f7c09abccde1f4a870c416c/3x" width="50"></h1>
+<h2> Bienvenid@! 🖤 <img src="https://cdn.betterttv.net/emote/5f7c09abccde1f4a870c416c/3x" width="50"></h2>
+
 <i>Aqui subo algunos apuntes de programacion y algunos proyectos de utilidad.</i>
 
 ---
@@ -8,6 +9,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdielgv162&count_private=true&show_icons=true&theme=dark)
 
 [![](https://img.shields.io/badge/Quantum_Challenge_2020-Foundational_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.youracclaim.com/badges/3a4b7917-8765-4c5f-840e-178e30e8c1ea/public_url)
+
 [![](https://img.shields.io/badge/Qubit_x_Qubit-Intro_to_Quantum_Computing-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://i.imgur.com/QvXj3yW.png)
 
 
@@ -22,4 +24,3 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=abdielgv162&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=abdielgv162&redirect=true)
-
