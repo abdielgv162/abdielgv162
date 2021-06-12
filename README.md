@@ -12,6 +12,7 @@
 
 [![](https://img.shields.io/badge/Qubit_x_Qubit-Intro_to_Quantum_Computing-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://i.imgur.com/QvXj3yW.png)
 
+[![](https://img.shields.io/badge/Quantum_Challenge_2021-Intermediate_Badge-informational??style=plastic&logo=IBM&logoColor=white&color=black)](https://www.credly.com/badges/6d2fd6d7-df82-4160-a148-67f2ecadc662/public_url)
 
 <a title="Overleaf" href="https://es.overleaf.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" class="center" width="50"></a><a title="Python" href="https://www.python.org/"><img src="https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/python/python.png" width="50"></a><a title="Qiskit" href="https://qiskit.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Qiskit-Logo.svg/1024px-Qiskit-Logo.svg.png" width="50"></a>
 
