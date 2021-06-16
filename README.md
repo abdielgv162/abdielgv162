@@ -20,8 +20,6 @@
 
 ---
 
-<br>
-
 <h2> Encuentrame en: </h2> 
 
 <br>
